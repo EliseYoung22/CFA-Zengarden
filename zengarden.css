@@ -1,0 +1,301 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Barrio');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+@import url('https://fonts.googleapis.com/css?family=Coming+Soon');
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+@import url('https://fonts.googleapis.com/css?family=Schoolbell');
+
+body {
+  /*background-color: #c0f7e1*/
+  background-image:url(https://i.imgur.com/vr5zb9D.jpg)
+}
+
+#header {
+  font-size: 80px;
+  font-style: italic;
+  /*font-family: 'Barrio', cursive;*/
+  font-family: 'Schoolbell', cursive;
+  text-shadow: 2px 2px #ff0000;
+  color: #ed7c04;
+  text-align: center;
+  height: 100px;
+  width: 1000px;
+  border: 3px dotted #73AD21;
+  background-color:#56f784;
+  /*background-image: url("cgarden.jpg");*/
+  margin-top: 30px;
+  margin-left: 200px;
+  margin-bottom: 30px;
+  padding: 20px 15px;
+}
+
+.sub-head {
+  font-size: 50px;
+  font-family: 'Indie Flower', cursive;
+  border: 3px dotted #73AD21;
+  padding: 10px;
+  height: 80px;
+  width: 600px;
+  background-color:#f74577;
+  margin-top: 30px;
+  margin-left: 400px;
+  margin-bottom: 30px;
+  padding: 20px 15px;
+}
+
+.summary {
+  font-family: 'Coming Soon', cursive;
+  font-size: 15px;
+  font-weight: 1000;
+  text-align: center;
+  margin: auto;
+  border: 5px dotted #42027a;
+  padding: 10px;
+  height: 100px;
+  width: 600px;
+  background-color:#af73ef;
+  margin-top: 30px;
+  margin-left: 400px;
+  margin-bottom: 30px;
+  padding: 20px 15px;
+}
+
+.preamble {
+  font-family: 'Coming Soon', cursive;
+  text-align: center;
+  margin: auto;
+  border: 5px dotted #058c6f;
+  padding: 10px;
+  height: 300px;
+  width: 600px;
+  background-color:#42f1f4;
+  margin-top: 30px;
+  margin-left: 400px;
+  margin-bottom: 30px;
+  padding: 20px 15px;
+}
+
+.explanation {
+  font-family: 'Coming Soon', cursive;
+  text-align: center;
+  margin: auto;
+  border: 5px dotted #8c0455;
+  padding: 10px;
+  height: 350px;
+  width: 600px;
+  background-color:#ed0469;
+  margin-top: 30px;
+  margin-left: 400px;
+  margin-bottom: 30px;
+  padding: 20px 15px;
+}
+
+.participation {
+  font-family: 'Coming Soon', cursive;
+  text-align: center;
+  margin: auto;
+  border: 5px dotted #0d6602;
+  padding: 10px;
+  height: 370px;
+  width: 600px;
+  background-color:#47d60e;
+  margin-top: 30px;
+  margin-left: 400px;
+  margin-bottom: 30px;
+  padding: 20px 15px;
+}
+
+.benefits {
+  font-family: 'Coming Soon', cursive;
+  text-align: center;
+  margin: auto;
+  border: 5px dotted #820217;
+  height: 150px;
+  width: 600px;
+  background-color:#f40a02;
+  margin-top: 30px;
+  margin-left: 400px;
+  margin-bottom: 30px;
+  padding: 20px 15px;
+}
+
+
+.requirements {
+  font-family: 'Coming Soon', cursive;
+  text-align: center;
+  margin: auto;
+  border: 5px dotted #0a266d;
+  padding: 10px;
+  height: 700px;
+  width: 600px;
+  background-color:#5593f7;
+  margin-top: 30px;
+  margin-left: 400px;
+  margin-bottom: 30px;
+  padding: 20px 15px;
+}
+.design-selection {
+  font-family: 'Coming Soon', cursive;
+  text-align: center;
+  margin: auto;
+  border: 5px dotted #ef4d02;
+  padding: 10px;
+  height: 250px;
+  width: 600px;
+  background-color:#f9f907;
+  transform: translate(-15%, -15%);
+  margin-top: 30px;
+  margin-right: -100px;
+  margin-bottom: 30px;
+  padding: 20px 15px;
+}
+
+.zen-resources {
+  font-family: 'Coming Soon', cursive;
+  text-align: center;
+  margin: auto;
+  border: 5px dotted #630a72;
+  padding: 10px;
+  height: 200px;
+  width: 600px;
+  background-color:#f959c7;
+  transform: translate(-15%, -15%);
+  margin-top: 30px;
+  margin-right: -150px;
+  margin-bottom: 30px;
+  padding: 20px 15px;
+}
+
+.design-archives {
+  font-family: 'Coming Soon', cursive;
+  text-align: center;
+  margin: auto;
+  border: 5px dotted #067f3d;
+  padding: 10px;
+  height: 100px;
+  width: 600px;
+  background-color:#61f4a4;
+  margin-top: 10px;
+  /*margin-right: -50px;*/
+  align-items: center;
+  transform: translate(-15%, -15%);
+  margin-bottom: 20px;
+  padding: 20px 15px;
+}
+
+
+#footer {
+  font-family: 'Coming Soon', cursive;
+  text-align: center;
+  margin: auto;
+  border: 5px dotted #bf0f67;
+  padding: 10px;
+  height: 40px;
+  width: 600px;
+  background-color:#f95757;
+  margin-top: 5px;
+  margin-left: 400px;
+  margin-bottom: 70px;
+  padding: 20px 15px;
+}
+
+/*body love heart cursor {
+  cursor:url(http://findicons.com/files/icons/1508/sketchcons_x/128/heart.png), auto;
+}*/
+body {
+  cursor:url(http://emojipedia-us.s3.amazonaws.com/cache/1a/92/1a9287a30afe6ddd8c389f79f1dbf5e0.png), auto;
+}
+
+
+ #heart {
+      margin: 0px auto;
+      margin-left: 670px;
+      position: relative;
+      width: 300px;
+      height: 150px;
+  }
+  #heart:before,
+  #heart:after {
+      position: absolute;
+      content: "made by Elise Young";
+      left: 50px;
+      top: 0;
+      width: 50px;
+      height: 80px;
+      background: red;
+      -moz-border-radius: 70px 70px 0 0;
+      border-radius: 70px 70px 0 0;
+      -webkit-transform: rotate(-45deg);
+         -moz-transform: rotate(-45deg);
+          -ms-transform: rotate(-45deg);
+           -o-transform: rotate(-45deg);
+              transform: rotate(-45deg);
+      -webkit-transform-origin: 0 100%;
+         -moz-transform-origin: 0 100%;
+          -ms-transform-origin: 0 100%;
+           -o-transform-origin: 0 100%;
+              transform-origin: 0 100%;
+  }
+  #heart:after {
+      left: 0;
+      -webkit-transform: rotate(45deg);
+         -moz-transform: rotate(45deg);
+          -ms-transform: rotate(45deg);
+           -o-transform: rotate(45deg);
+              transform: rotate(45deg);
+      -webkit-transform-origin: 200% 200%;
+         -moz-transform-origin: 100% 100%;
+          -ms-transform-origin: 100% 100%;
+           -o-transform-origin: 100% 100%;
+              transform-origin :100% 100%;
+  }
+
+  .wrapper{
+      font-family: 'Indie Flower', cursive;
+      max-width: 400px;
+      background: pink;
+      height: 45px;
+      text-align: right;
+      margin-left: 500px
+  }
+
+  .marquee {
+      font-size: 30px;
+      background: red;
+      white-space: nowrap;
+      -webkit-animation: rightThenLeft 4s linear;
+  }
+
+  .fade
+{
+        opacity:0.5;
+}
+.fade:hover
+{
+        opacity:1;
+}
+
+
+  #menu ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #42dff4;
+}
+
+#menu li {
+float: left;
+}
+
+#menu li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+#menu li a:hover {
+background-color: #54e6f9;
+}
